@@ -6,14 +6,14 @@
 
 基于 2026 年 4 月 Bilibili [@蛆肉儿串儿](https://www.sbti.ai/en) 发起的 SBTI（Silly Big Personality Test）27 种自嘲人格。
 
-> 想要正经的产品评审版？→ [mbti-company](https://github.com/Layton2617/mbti-company)（16 个 MBTI 同事开专业评审会）
+> 想要正经的产品评审版？→ [mbti-company-skills](https://github.com/Layton2617/mbti-company-skills)（16 个 MBTI 同事开专业评审会）
 
 ---
 
 ## 安装
 
 ```bash
-git clone https://github.com/Layton2617/sbti-company.git ~/.claude/skills/sbti-company
+git clone https://github.com/Layton2617/sbti-company-skills.git ~/.claude/skills/sbti-company
 ```
 
 下次打开 Claude Code 自动识别。
@@ -122,7 +122,7 @@ sbti-company/
 ## 何时选 SBTI 而不是 MBTI
 
 - 要"扎心段子 / 毒舌吐槽 / 自嘲" → SBTI
-- 要"结构化评审 / 可执行决策" → [MBTI](https://github.com/Layton2617/mbti-company)
+- 要"结构化评审 / 可执行决策" → [MBTI](https://github.com/Layton2617/mbti-company-skills)
 - 两个都想要 → 先 MBTI 给定性，再 SBTI 给情绪出口
 
 ## License
